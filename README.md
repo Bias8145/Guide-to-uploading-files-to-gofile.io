@@ -90,9 +90,6 @@ Example:
 ```bash
 ./upload.sh sunfish/tpp/out/target/product/sunfish/out/target/product/sunfish/PixelProject_sunfish-2.0-unofficial-20250407-0455.zip sunfish/tpp/out/target/product/sunfish/boot.img
 ```
-
-Berikut ini adalah bagian **`Sample Output`** yang siap kamu **copy-paste langsung ke `README.md` GitHub**, dalam format Markdown yang rapi:
-
 ---
 
 ## Sample Output
