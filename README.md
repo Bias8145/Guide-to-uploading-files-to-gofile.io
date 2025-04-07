@@ -92,9 +92,7 @@ Example:
 ```
 ---
 
-## Sample Output
-
-Here's an example of what you’ll see after uploading:
+### Sample Output
 
 ```
 =============================================
